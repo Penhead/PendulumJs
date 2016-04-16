@@ -1,2 +1,2 @@
 # PendulumJs
-Physic Library using React/Redux
+Physics Engine using React/Redux
