@@ -7,5 +7,9 @@ function Vector2d(x, y) {
 Vector2d.prototype = {
     add: function (vec) {
         return new Vector2d(this.x + vec.x, this.y + vec.y);
+    },
+    subtract: function (vec) {
+        
     }
+    
 }
