@@ -9,6 +9,7 @@ Vector2d.prototype = {
         return new Vector2d(this.x + vec.x, this.y + vec.y);
     },
     subtract: function (vec) {
+        return new Vector2d(this.x - vec.x, this.y - vec.y);
         
     }
     
