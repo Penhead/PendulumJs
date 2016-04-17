@@ -1,0 +1,19 @@
+{
+  "name": "pendulumjs",
+  "version": "1.0.0",
+  "description": "Physics Engine using React/Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Penhead/PendulumJs.git"
+  },
+  "author": "Penhead",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Penhead/PendulumJs/issues"
+  },
+  "homepage": "https://github.com/Penhead/PendulumJs#readme"
+}
