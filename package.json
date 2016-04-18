@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Penhead/PendulumJs/issues"
   },
-  "homepage": "https://github.com/Penhead/PendulumJs#readme"
+  "homepage": "https://github.com/Penhead/PendulumJs#readme",
+  "dependencies": {
+    "react": "^15.0.1"
+  }
 }
